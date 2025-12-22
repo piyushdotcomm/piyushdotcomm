@@ -28,7 +28,7 @@ I love combining **beautiful UIs** with **efficient backends** to create web app
 # 📊 GitHub Stats:
 <div align="center">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushdotcomm&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushdotcomm&theme=radical">
+<!-- <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushdotcomm&theme=radical"> -->
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushdotcomm&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushdotcomm&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piyushdotcomm&theme=radical&utcOffset=8">
