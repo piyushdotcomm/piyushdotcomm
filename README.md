@@ -47,4 +47,4 @@ I love combining **beautiful UIs** with **efficient backends** to create web app
 ---
 [![](https://visitcount.itsvg.in/api?id=piyushdotcomm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=piyushdotcomm)
